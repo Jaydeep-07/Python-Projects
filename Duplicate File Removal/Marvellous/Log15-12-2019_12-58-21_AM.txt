@@ -1,0 +1,10 @@
+____________________________________________________________
+Starting Time Of File Scanning at :Sun Dec 15 00:58:21 2019
+ Total Duplicates Files Are :3
+Deleted Duplicate Files Are !!!!!!
+____________________________________________________________
+C:\Users\Jaydeep\Desktop\Assignment13\Assignment13\Demo\ABC.txt
+
+C:\Users\Jaydeep\Desktop\Assignment13\Assignment13\Demo\DEMO\PQR - Copy.txt
+
+C:\Users\Jaydeep\Desktop\Assignment13\Assignment13\Demo\DEMO\PQR.txt

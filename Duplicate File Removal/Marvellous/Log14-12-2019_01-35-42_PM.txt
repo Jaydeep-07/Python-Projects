@@ -1,0 +1,6 @@
+____________________________________________________________
+Starting Time Of File Scanning at :Sat Dec 14 13:35:42 2019
+ Total Duplicates Files Are :0
+Deleted Duplicate Files Are !!!!!!
+____________________________________________________________
+No Duplicates File Found

@@ -1,0 +1,6 @@
+____________________________________________________________
+Starting Time Of File Scanning at :Sun Feb  9 15:19:27 2020
+ Total Duplicates Files Are :1
+Deleted Duplicate Files Are !!!!!!
+____________________________________________________________
+C:\Users\Jaydeep\Desktop\latest rec\1 Python Class\0 Automation\Assignment13\Assignment13\Demo\PQR.txt

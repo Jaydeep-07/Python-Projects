@@ -1,0 +1,18 @@
+____________________________________________________________
+Starting Time Of File Scanning at :Sat Dec 14 13:32:53 2019
+ Total Duplicates Files Are :7
+Deleted Duplicate Files Are !!!!!!
+____________________________________________________________
+D:\Programs python\Assignment13\Demo\a - Copy (2) - Copy.txt
+
+D:\Programs python\Assignment13\Demo\a - Copy (3) - Copy - Copy.txt
+
+D:\Programs python\Assignment13\Demo\a - Copy (4) - Copy - Copy.txt
+
+D:\Programs python\Assignment13\Demo\sachin - Copy - Copy (2).txt
+
+D:\Programs python\Assignment13\Demo\sachin - Copy - Copy (3) - Copy.txt
+
+D:\Programs python\Assignment13\Demo\sachin - Copy - Copy (4) - Copy.txt
+
+D:\Programs python\Assignment13\Demo\a\b - Copy (2) - Copy.txt
